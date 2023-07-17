@@ -1,10 +1,13 @@
 # Intorduction
 
-This is a MySql and PHP test task sent by raintree systems. 
-I am using Visual studio code and Wamp to write my code. I also used
-"PHP Intellisense" extension by Felix Becker and "MySQL" extension by jun Han. 
+This test task was assigned by raintree systems and involved working with MySQL and PHP. For my development environment, I utilized Visual Studio Code and Wamp. To enhance my coding experience, I integrated two extensions: "PHP Intellisense" by Felix Becker and "MySQL" by jun Han. Completing this exercise took approximately 7 hours.
 
-# Difficulties
+# Challenges Encountered
 
-When trying to run script.php for the first time I faced difficulties I got an error: "fatal error: Uncaught Error: Class "mysqli" not found". I fixed it after googleing and finding a solution on stackoverflow. The problem was with php.ini file in PHP installation directory.
+While I have experience with JavaScript and its ecosystem, PHP is relatively new to me, which presented a few challenges. I believe in maintaining transparency, so I would like to share the difficulties I faced during the task:
 
+Setting up the database initially posed some difficulties. I made a few mistakes in creating the tables and used incorrect queries, leading to some issues.
+
+When executing the script.php for the first time, I encountered an error: "Fatal error: Class 'mysqli' not found." After some research and finding a solution on Stack Overflow, I resolved the issue by modifying the php.ini file in the PHP installation directory.
+
+Although the exercise progressed smoothly, the majority of my time was spent on research and Google searches. It involved a lot of trial and error as I worked to grasp various concepts and techniques. 
