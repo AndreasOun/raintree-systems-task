@@ -33,11 +33,13 @@ INSERT INTO patient (pn, first, last, dob) VALUES
 
 -- Dummy data for the "insurance" table
 INSERT INTO insurance (patient_id, iname, from_date, to_date) VALUES
-    (1, 'Seesam Insurers', '2023-06-01', '2024-05-31'),
-    (1, 'BTA Insurance', '2023-03-15', '2026-09-15'),
+    (1, 'Seesam Insurers', '2021-06-01', '2022-05-31'),
+    (1, 'BTA Insurance', '2021-03-15', '2022-09-15'),
     (2, 'PZU insurance', '2022-12-20', '2027-12-19'),
     (2, 'Ergo Insure', '2023-01-10', '2025-07-10'),
     (3, 'Inges Insurance', '2023-02-25', '2024-08-25'),
     (3, 'CGI', '2022-11-10', '2029-11-09'),
     (4, 'LifeWise', '2023-05-15', '2024-05-14'),
+    (4, 'Ergo Insurance', '2017-05-15', '2020-05-14'),
+    (5, 'Seesam Insurers', '2014-05-15', '2021-05-14'),
     (5, 'SecureLife Ins.', '2023-03-05', '2027-09-04');
