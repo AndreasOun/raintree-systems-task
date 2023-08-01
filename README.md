@@ -1,4 +1,4 @@
-# Intorduction
+# Introduction
 
 This test task was assigned by raintree systems and involved working with MySQL and PHP. For my development environment, I utilized Visual Studio Code and Wamp. To enhance my coding experience, I integrated two extensions: "PHP Intellisense" by Felix Becker and "MySQL" by jun Han. Completing this exercise took approximately 7 hours.
 
